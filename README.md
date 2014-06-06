@@ -14,6 +14,8 @@ The typeface Montserrat regular by Julieta Ulanovsky − released under a SIL Op
 
 This project is copyleft and published under the [Free Art License](http://artlibre.org/lal/en).
 
+The license means you can use this logo for any purpose. And since Novena doesn't use it, I guess the first one to put it to good use wins. I promise to rename this project as soon as someone can prove me they use it. Submit an issue to claim your prize.
+
 Julien Deswaef
 http://xuv.be
 @xuv
